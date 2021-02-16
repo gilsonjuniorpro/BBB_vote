@@ -3,7 +3,7 @@
 ### **Overview - About this project**
 This is a windows bat wich can vote on BBB 21 automatically how many times you determine using android ADB
 
-### 📷 How is this Project
+### 📷 Some Images
 <img src="Screenshot_20210216-091422.png" width="25%"></img>
 <img src="Screenshot_20210216-091521.png" width="25%"></img>
 
